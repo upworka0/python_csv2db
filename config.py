@@ -1,0 +1,5 @@
+MYSQL_HOST = "localhost"
+MYSQL_USER = "root"
+MYSQL_PASS = ""
+MYSQL_DBNAME = "csv_table"
+ZIP_URL = "https://cloud.oolong.me/f/529a23278ad4456694ac/?dl=1"
